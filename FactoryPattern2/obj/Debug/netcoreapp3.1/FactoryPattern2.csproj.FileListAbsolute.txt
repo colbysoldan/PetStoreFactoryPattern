@@ -1,0 +1,14 @@
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/bin/Debug/netcoreapp3.1/FactoryPattern2
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/bin/Debug/netcoreapp3.1/FactoryPattern2.deps.json
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/bin/Debug/netcoreapp3.1/FactoryPattern2.runtimeconfig.json
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/bin/Debug/netcoreapp3.1/FactoryPattern2.runtimeconfig.dev.json
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/bin/Debug/netcoreapp3.1/FactoryPattern2.dll
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/bin/Debug/netcoreapp3.1/FactoryPattern2.pdb
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/obj/Debug/netcoreapp3.1/FactoryPattern2.csproj.AssemblyReference.cache
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/obj/Debug/netcoreapp3.1/FactoryPattern2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/obj/Debug/netcoreapp3.1/FactoryPattern2.AssemblyInfoInputs.cache
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/obj/Debug/netcoreapp3.1/FactoryPattern2.AssemblyInfo.cs
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/obj/Debug/netcoreapp3.1/FactoryPattern2.csproj.CoreCompileInputs.cache
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/obj/Debug/netcoreapp3.1/FactoryPattern2.dll
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/obj/Debug/netcoreapp3.1/FactoryPattern2.pdb
+/Users/huntersoldan/Desktop/csharp27/FactoryPattern2/FactoryPattern2/obj/Debug/netcoreapp3.1/FactoryPattern2.genruntimeconfig.cache
